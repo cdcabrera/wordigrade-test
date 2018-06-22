@@ -1,0 +1,15 @@
+{
+  "name": "wordigrade",
+  "version": "0.0.1",
+  "description": "Wordigrade, documentation for Cloudigrade",
+  "author": "Red Hat",
+  "license": "GPL-3.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdcabrera/wordigrade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cdcabrera/wordigrade/issues"
+  }
+}
