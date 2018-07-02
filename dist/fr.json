@@ -1,4 +1,12 @@
 {
-  "version": "1.0.1",
-  "test": "french"
+  "version": "1.2.0",
+  "title": "Cloud Meter",
+  "authentication": {
+    "title": "Connectez-vous à votre compte"
+  },
+  "accountView": {
+    "emptyState": {
+      "title": "Bienvenue sur Cloud Meter"
+    }
+  }
 }

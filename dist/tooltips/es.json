@@ -1,4 +1,6 @@
 {
-  "version": "1.0.1",
-  "tooltip.test": "spainish tooltip"
+  "version": "1.2.0",
+  "tooltip": {
+    "test": "Spanish tooltip"
+  }
 }
